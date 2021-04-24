@@ -25,5 +25,6 @@ namespace Dmitri
         {
             return String.Format("Name : {0} , Fee : {1,3} .", name , fee);
         }
+        //My GitHub Pribor86
     }
 }
