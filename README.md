@@ -1,5 +1,4 @@
 # Emloyee
-C# OOP Emloyee abstract with 4 others
 
 Компания платит своим сотрудникам еженедельно. 
 
